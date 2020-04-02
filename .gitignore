@@ -1,0 +1,31 @@
+*.class
+*.iml
+*.ipr
+*.iws
+*.jar
+*.DS_Store
+*.txt
+*.pyc
+*.xlsx
+
+# Package Files #
+*.war
+*.ear
+*.log
+*.log*
+*.rdb
+dependency-reduced-pom.xml
+
+# Target directory #
+*logs/**
+*target/**
+*.idea/**
+*build/**
+*out/**
+*javadoc/**
+docs/build/**
+classes/**
+
+
+#IDE 
+.history
